@@ -1,15 +1,7 @@
 #reslutの各フォルダーのみを追跡対象に
-/result/data/data_features
-/result/data/MAPE
-/result/data/Prophet
-/result/data/自己回帰
-/result/data/深層学習
-/result/graph/AQI
-/result/graph/data_features
-/result/graph/Prophet
-/result/graph/自己回帰
-/result/graph/深層学習
-/result/parameta
+/result/**
+!/result/**/
+!/result/**/.gitkeep
 
 
 #動かすときに作成されるものであるため、追跡を外す
