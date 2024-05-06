@@ -1,8 +1,8 @@
 #適用させないファイルとフォルダーを指定
 /result/
 /AQI/__pycache__/
-/data/city_aqi_data/
-/data/explanatory_variables/
 /data/raw_data/
 
-
+#深層学習の検証ファイルと公開ファイルを追跡させない
+/深層学習_lstmの予測検証.ipynb
+/Deep_learning_model.ipynb
