@@ -1,0 +1,8 @@
+#適用させないファイルとフォルダーを指定
+/result/
+/AQI/__pycache__/
+/data/city_aqi_data/
+/data/explanatory_variables/
+/data/raw_data/
+
+
