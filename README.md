@@ -12,6 +12,7 @@
 1. Paper_project_master(ルートディレクトリ)/dataフォルダー内にてraw_data.zipを解凍
 1. ディレクトリーをGoogle Drive上にアップロードする
 1. Data_preprocessing_1.ipynb → Data_preprocessing_city&AQI_2.ipynb → Data _feature＆Missing _value _imputation_3.ipynbを動かしてデータを学習できる状態にする
+1. 手順5を踏んだ状態でAutoregressive_model.ipynb、Prophet_model.ipynbを動かすことで大気汚染物質の予測を行う(※近日中にDeeplearningモデルを公開予定) 
 
 ## ファイルの説明
 ###  Data_preprocessing_1.ipynb
